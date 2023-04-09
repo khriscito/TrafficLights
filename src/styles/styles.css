@@ -1,0 +1,54 @@
+.traffic-stick{
+    margin: auto;
+    width: 40px;
+    height: 240px;
+    background-color: black;
+}
+.traffic-body{
+
+margin:auto;
+width: 160px;
+height: 550px;
+background-color: black
+
+}
+
+.traffic-red{
+    width: 120px;
+    height: 120px;
+    background-color: red;
+    border-radius: 50%;
+    margin: auto;
+    box-shadow: null;
+}
+
+.traffic-yellow{
+    width: 120px;
+    height: 120px;
+    background-color: yellow;
+    border-radius: 50%;
+    margin: auto;
+}
+
+.traffic-green{
+    width: 120px;
+    height: 120px;
+    background-color: green;
+    border-radius: 50%;
+    margin: auto;
+}
+
+.lightened{
+    box-shadow: 0px 0px 25px 15px rgb(238, 238, 94);
+
+}
+
+.traffic-purple{
+
+    width: 120px;
+    height: 120px;
+    background-color: purple;
+    border-radius: 50%;
+    margin: auto;
+
+}
